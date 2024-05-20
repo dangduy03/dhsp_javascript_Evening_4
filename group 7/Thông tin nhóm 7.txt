@@ -1,0 +1,34 @@
+Nhóm 7: Xây dựng website du lịch 
+Thành viên:
+Trần Tuấn Nhựt
+Nguyễn Thị Thùy
+Trương Hữu Thọ
+Nguyễn Đức Hoàng
+Leukhamhan Xaypanya
+Lê Nguyễn Hải Tiến
+Đinh Ngọc Cường
+
+Link youtube: https://youtu.be/eCEL_33mkfM
+Link git: https://github.com/ttn1401/Group_7
+
+Tài khoản đăng nhập: (admin)
+TK: thuy234@gmail.com
+Pass: thuy234@gmail.com
+
+Hướng dẫn chạy 
+Mở 2 terminal 
+Terminal 1 
+- Frontend
+Vào frontend: Cd frontend
+Tải thư viện npm i 
+Chạy frontend :  Npm strat
+Tải thư viện node-modules : npm install
+ 
+Terminal 2
+- Backend 
+vào Backend: cd backend
+Tải thư viện : npm init 
+Thư viện hỗ trợ : npm i express mongodb mongoose dotenv cors cookie-parser jsonwebtoken bcryptjs
+Chạy backend: npm run start-dev
+
+
